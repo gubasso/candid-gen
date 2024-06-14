@@ -156,3 +156,4 @@ For any inquiries, please reach out to the authors via email or open an issue on
 ## Links
 
 - [Repository](https://github.com/cwnt-io/candid-gen)
+- [Crates.io](https://crates.io/crates/candid-gen)
