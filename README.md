@@ -48,13 +48,13 @@
 
 ### Installing
 
-To install `candid-gen`, you can use `cargo install` to install the latest release published at `crates.io`:
+To install `candid-gen` the latest published release from `crates.io`, you can use `cargo install`:
 
 ```sh
 cargo install candid-gen
 ```
 
-Or you can clone the repository and build the project from the master branch:
+Or you can clone the repository master branch and build the project:
 
 ```sh
 git clone https://github.com/cwnt-io/candid-gen.git
