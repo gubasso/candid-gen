@@ -8,5 +8,5 @@
 
 ## Backlog
 
-- integrate/fork from candid-extractor?
+- integrate/fork/MR with candid-extractor
 - candid-gen homepage? deployed at ICP?
